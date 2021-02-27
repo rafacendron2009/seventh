@@ -35,6 +35,4 @@ msbuild.wrn
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
-appsettings.Development.json
-appsettings.json
 aws-beanstalk-tools-defaults.json
